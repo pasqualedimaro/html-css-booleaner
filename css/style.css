@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #4ea0ff;
+  background-image: url(../img/pattern.png);
+  background-repeat: repeat;
+  background-size: contain;
+  background-position: center;
+  height: 200px;
+}
+
+.piccola {
+  width: 300px;
+  height: auto;
+  margin-top: 100px;
+}
